@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/netfix-clone/static/css/main.2368e217.css",
+    "main.js": "/netfix-clone/static/js/main.968adc1c.js",
+    "static/media/NetflixLogo.png": "/netfix-clone/static/media/NetflixLogo.303904f75553a51bbf31.png",
+    "index.html": "/netfix-clone/index.html",
+    "main.2368e217.css.map": "/netfix-clone/static/css/main.2368e217.css.map",
+    "main.968adc1c.js.map": "/netfix-clone/static/js/main.968adc1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2368e217.css",
+    "static/js/main.968adc1c.js"
+  ]
+}
